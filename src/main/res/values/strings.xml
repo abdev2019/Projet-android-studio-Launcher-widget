@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fast Ball Launcher</string>
+
+
+    <!-- test ads
+    <string name="admob_banner_id1">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_banner_id2">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_banner_id3">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!-- Real ads -->
+    <string name="admob_app_id">ca-app-pub-7344721663828519~1852085029</string>
+
+    <string name="admob_banner_id1">ca-app-pub-7344721663828519/1643351404</string>
+
+    <string name="admob_banner_id2">ca-app-pub-7344721663828519/5671910530</string>
+
+    <string name="admob_banner_id3">ca-app-pub-7344721663828519/4739682135</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-7344721663828519/5199453035</string>
+
+
+</resources>
